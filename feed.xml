@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:C6A7D310-5F3F-4CCD-BCEF-70D78710E520</id>
+ <title>Page list Atom feed</title>
+ <updated>2022-09-08T10:26:33+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:CA41BFF7-BD4E-400F-8DA9-3BCBEB7991CF</id>
+  <title>Benvenuto</title>
+  <title xmlns="urn:iweb:">Benvenuto</title>
+  <in-navbar xmlns="urn:iweb:">CA41BFF7-BD4E-400F-8DA9-3BCBEB7991CF</in-navbar>
+  <link rel="alternate" href="Benvenuto.html"/>
+  <updated>2022-09-08T10:26:33.001+02:00</updated>
+  <content>Benvenuto</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EC6879CE-2845-46A2-A83D-33120914FA85</id>
+  <title>MEME</title>
+  <title xmlns="urn:iweb:">MEME</title>
+  <in-navbar xmlns="urn:iweb:">EC6879CE-2845-46A2-A83D-33120914FA85</in-navbar>
+  <link rel="alternate" href="MEME/MEME.html"/>
+  <updated>2007-01-23T18:29:52+01:00</updated>
+  <content>MEME</content>
+ </entry>
+</feed>

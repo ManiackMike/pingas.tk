@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>MEME</title>
+    <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME</link>
+    <description>Goditi questi SPICY MEMES!</description>
+    <item>
+      <title>Pingas</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/8_Pingas.html</link>
+      <guid isPermaLink="false">12f2cbd9-a3ec-49a1-beac-0b01fde77d89</guid>
+      <pubDate>Thu, 8 Sep 2022 10:21:23 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/8_Pingas.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

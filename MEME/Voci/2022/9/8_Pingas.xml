@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="16CAB36C-0220-4013-8826-8E50720B48BF">
+  <lastEdited clientType="local-build-20220908" date="2022-09-08 08:24:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;MEMES&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Pingas</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;gioved&#xEC; 8 settembre 2022&lt;/b&gt;</richText>
+  </textBox>
+</content>

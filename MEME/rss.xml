@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Ecco i meme!</title>
+    <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/MEME.html</link>
+    <description>Goditi questi SPICY MEMES!</description>
+    <generator>iWeb 3.0.2</generator>
+    <item>
+      <title>Pingas</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/8_Pingas.html</link>
+      <guid isPermaLink="false">12f2cbd9-a3ec-49a1-beac-0b01fde77d89</guid>
+      <pubDate>Thu, 8 Sep 2022 10:21:23 +0200</pubDate>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
