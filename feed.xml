@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:C6A7D310-5F3F-4CCD-BCEF-70D78710E520</id>
  <title>Page list Atom feed</title>
- <updated>2022-09-08T10:26:33+02:00</updated>
+ <updated>2022-09-10T21:27:19+02:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Benvenuto</title>
   <in-navbar xmlns="urn:iweb:">CA41BFF7-BD4E-400F-8DA9-3BCBEB7991CF</in-navbar>
   <link rel="alternate" href="Benvenuto.html"/>
-  <updated>2022-09-08T10:26:33.001+02:00</updated>
+  <updated>2022-09-10T21:27:19.001+02:00</updated>
   <content>Benvenuto</content>
  </entry>
  <entry>

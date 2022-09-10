@@ -1,16 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>Ecco i meme!</title>
     <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/MEME.html</link>
     <description>Goditi questi SPICY MEMES!</description>
     <generator>iWeb 3.0.2</generator>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Goditi questi SPICY MEMES!</itunes:subtitle>
+    <itunes:summary>Goditi questi SPICY MEMES!</itunes:summary>
+    <language>it</language>
     <item>
-      <title>Pingas</title>
-      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/8_Pingas.html</link>
-      <guid isPermaLink="false">12f2cbd9-a3ec-49a1-beac-0b01fde77d89</guid>
-      <pubDate>Thu, 8 Sep 2022 10:21:23 +0200</pubDate>
+      <title>wenomechainsama</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/10_wenomechainsama.html</link>
+      <guid isPermaLink="false">17dabb8e-ec20-4dff-a9c1-aaad3dfe44b7</guid>
+      <pubDate>Sat, 10 Sep 2022 21:24:40 +0200</pubDate>
       <description> </description>
+      <enclosure url="file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/Media/wenomechainsama.m4v" length="1396018" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:14</itunes:duration>
+      <itunes:subtitle>wenomechainsama</itunes:subtitle>
+      <itunes:summary>wenomechainsama</itunes:summary>
+    </item>
+    <item>
+      <title>Ooooo the misery</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/10_Ooooo_the_misery.html</link>
+      <guid isPermaLink="false">12e6757f-709c-4c04-bb5e-57c0075aafdc</guid>
+      <pubDate>Sat, 10 Sep 2022 21:23:43 +0200</pubDate>
+      <description> </description>
+      <enclosure url="file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/Media/DDLVID.COM-1509665893424541697.m4v" length="234972" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:03</itunes:duration>
+      <itunes:subtitle>Ooooo the misery</itunes:subtitle>
+      <itunes:summary>Ooooo the misery</itunes:summary>
+    </item>
+    <item>
+      <title>Quando sei in classe a fare un test</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/10_Quando_sei_in_classe_a_fare_un_test.html</link>
+      <guid isPermaLink="false">c8f6c5fb-4bec-4f19-afe5-550bedc209f5</guid>
+      <pubDate>Sat, 10 Sep 2022 21:22:20 +0200</pubDate>
+      <description> </description>
+      <enclosure url="file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/Media/this_looks_like_the_perfect_time_to_scream_at_the_top_of_my_f_cking_lungs.m4v" length="584039" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:11</itunes:duration>
+      <itunes:subtitle>Quando sei in classe a fare un test</itunes:subtitle>
+      <itunes:summary>Quando sei in classe a fare un test</itunes:summary>
+    </item>
+    <item>
+      <title>Gentoo linux users installing a web browser</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/10_Gentoo_linux_users_installing_a_web_browser.html</link>
+      <guid isPermaLink="false">aab08176-5004-4812-b867-8baf6d8acedc</guid>
+      <pubDate>Sat, 10 Sep 2022 21:20:37 +0200</pubDate>
+      <description> </description>
+      <enclosure url="file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/Media/-5619394499146492421.m4v" length="1008441" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:12</itunes:duration>
+      <itunes:subtitle>Gentoo linux users installing a web browser</itunes:subtitle>
+      <itunes:summary>Gentoo linux users installing a web browser</itunes:summary>
+    </item>
+    <item>
+      <title>Minecraft be like</title>
+      <link>file://localhost/Users/domiziolococo/Siti%20Web/Pingas/Pingas/MEME/Voci/2022/9/10_Minecraft_be_like.html</link>
+      <guid isPermaLink="false">7140c562-ca6f-484d-b357-43c3ae153fb0</guid>
+      <pubDate>Sat, 10 Sep 2022 21:19:38 +0200</pubDate>
+      <description> </description>
+      <itunes:block>yes</itunes:block>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>

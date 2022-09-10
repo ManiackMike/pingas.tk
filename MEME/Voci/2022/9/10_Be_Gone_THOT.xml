@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="16CAB36C-0220-4013-8826-8E50720B48BF">
+  <lastEdited clientType="local-build-20220910" date="2022-09-10 19:26:34 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Be Gone THOT</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;sabato 10 settembre 2022&lt;/b&gt;</richText>
+  </textBox>
+</content>
