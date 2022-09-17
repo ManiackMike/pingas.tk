@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.2 local-build-20220910
+// Created by iWeb 3.0.2 local-build-20220911
 
 function writeMovie1()
 {detectBrowser();if(windowsInternetExplorer)
@@ -11,6 +11,6 @@ setTransparentGifURL('../../../../Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {dynamicallyPopulate();loadMozillaCSS('10_wenomechainsama_files/10_wenomechainsamaMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('../../../../Media/transparent.gif');fixupIECSS3Opacity('id4');BlogFixupPreviousNext();performPostEffectsFixups()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');Widget.onload();fixAllIEPNGs('../../../../Media/transparent.gif');fixupIECSS3Opacity('id4');BlogFixupPreviousNext();performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
